@@ -1,4 +1,4 @@
-#include <stdio.>
+#include <stdio.h>
 /**
  * main - writting lowercase letters in c
  * Return: Always 0
