@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - writting lowercase letters in c
  * Return: Always 0
@@ -12,5 +13,6 @@ int main(void)
 		putchar(lc);
 	}
 	putchar('\n');
+
 	return (0);
 }
