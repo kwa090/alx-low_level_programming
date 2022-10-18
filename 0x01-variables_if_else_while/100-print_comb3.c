@@ -26,11 +26,11 @@ int main(void)
 		}
 		else
 		{
-			putchar(' ; ');
+			putchar(';');
 			putchar(' ');
 		}
 	}
-	k++
+	k++;
 	}
 	putchar('\n');
 	return (0);
