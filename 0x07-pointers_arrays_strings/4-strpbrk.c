@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strpbrk - Entry poit
+ * _strpbrk - Entry point
  * @s: input
  * @accept: input
  * Return: Always 0
