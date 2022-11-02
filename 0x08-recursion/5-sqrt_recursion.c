@@ -27,4 +27,4 @@ int real_root(int n, int i)
 	if (i * i == n)
 		return (i);
 	return (real_root(n, i + 1));
-
+}
